@@ -1,5 +1,9 @@
-NS1='foksgg1.xd.teamwork-vpn.cloud'
-NS2='foksgg2.xd.teamwork-vpn.cloud'
+read -p "Enter desired DNS: "  NS1
+read -p "Enter desired servername: "  NS2
+
+
+###NS1='foksgg1.xd.teamwork-vpn.cloud'
+###NS2='foksgg2.xd.teamwork-vpn.cloud'
 
 
 LOOP_DELAY=5
