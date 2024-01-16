@@ -1,5 +1,5 @@
-NS1='foksgg2.xd.teamwork-vpn.cloud'
-NS2='james.ubuntu.sardinas.cf'
+NS1='foksgg1.xd.teamwork-vpn.cloud'
+NS2='foksgg2.xd.teamwork-vpn.cloud'
 
 
 LOOP_DELAY=5
